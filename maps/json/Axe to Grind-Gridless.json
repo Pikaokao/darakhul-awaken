@@ -1,0 +1,425 @@
+{
+  "name": "Axe to Grind-Gridless",
+  "width": 3300,
+  "height": 3300,
+  "grid": 150,
+  "shiftX": 0,
+  "shiftY": 0,
+  "gridDistance": 5.0,
+  "gridUnits": "ft",
+  "padding": 0.0,
+  "gridColor": "#000000",
+  "gridAlpha": 0.2,
+  "globalLight": true,
+  "darkness": 0.0,
+  "lights": [
+    {
+      "x": 2167,
+      "y": 2114,
+      "dim": 40.0,
+      "bright": 20.0,
+      "tintColor": "#FFB46D",
+      "tintAlpha": 0.0
+    },
+    {
+      "x": 2046,
+      "y": 2112,
+      "dim": 40.0,
+      "bright": 20.0,
+      "tintColor": "#FFB46D",
+      "tintAlpha": 0.0
+    },
+    {
+      "x": 1725,
+      "y": 1682,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFAD40",
+      "tintAlpha": 0.0
+    },
+    {
+      "x": 759,
+      "y": 787,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFB055",
+      "tintAlpha": 0.0
+    },
+    {
+      "x": 1602,
+      "y": 789,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFB055",
+      "tintAlpha": 0.0
+    },
+    {
+      "x": 944,
+      "y": 2540,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFB055",
+      "tintAlpha": 0.0
+    },
+    {
+      "x": 1602,
+      "y": 1415,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFB055",
+      "tintAlpha": 0.0
+    },
+    {
+      "x": 759,
+      "y": 2039,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFB055",
+      "tintAlpha": 0.0
+    },
+    {
+      "x": 1570,
+      "y": 2540,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFB055",
+      "tintAlpha": 0.0
+    },
+    {
+      "x": 759,
+      "y": 1413,
+      "dim": 20.0,
+      "bright": 10.0,
+      "tintColor": "#FFB055",
+      "tintAlpha": 0.0
+    }
+  ],
+  "walls": [
+    {
+      "c": [
+        709,
+        2590,
+        709,
+        2277
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        709,
+        2590,
+        1022,
+        2590
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        709,
+        2120,
+        709,
+        2277
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        709,
+        2120,
+        709,
+        1806
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        709,
+        1649,
+        709,
+        1806
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        709,
+        1649,
+        709,
+        1335
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        709,
+        1178,
+        709,
+        1335
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        709,
+        1178,
+        709,
+        708
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        709,
+        708,
+        1650,
+        708
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        1179,
+        2590,
+        1022,
+        2590
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1336,
+        2590,
+        1179,
+        2590
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 1
+    },
+    {
+      "c": [
+        1493,
+        2590,
+        1336,
+        2590
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1493,
+        2590,
+        1807,
+        2590
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1650,
+        1492,
+        1650,
+        1649
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1807,
+        1649,
+        1650,
+        1649
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1650,
+        1335,
+        1650,
+        1492
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1650,
+        1178,
+        1650,
+        1335
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1650,
+        1178,
+        1650,
+        708
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1964,
+        2590,
+        1807,
+        2590
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1964,
+        1649,
+        1807,
+        1649
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1964,
+        2590,
+        2278,
+        2590
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        1964,
+        1649,
+        2278,
+        1649
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2434,
+        2590,
+        2278,
+        2590
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2434,
+        1649,
+        2278,
+        1649
+      ],
+      "move": 1,
+      "sense": 0,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2591,
+        2590,
+        2434,
+        2590
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2591,
+        1649,
+        2434,
+        1649
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    },
+    {
+      "c": [
+        2591,
+        2590,
+        2591,
+        1649
+      ],
+      "move": 1,
+      "sense": 1,
+      "sound": 1,
+      "door": 0
+    }
+  ],
+  "img": null,
+  "foreground": null
+}

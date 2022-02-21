@@ -1,0 +1,50 @@
+{
+  "name": "darakhul-awaken",
+  "title": "Darakhul Awaken",
+  "description": "Darakhul Awaken is Part 1 of a 4-part series of modules, though it can also be run as a one-shot or side quest in an existing campaign. It has been designed for a party of 4-6 characters of 1st to 4th level and optimized for five characters with an average party level (APL) of 3. Completing the objectives in the module by whatever means the party uses should get them to 4th level.",
+  "author": "Me",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "9",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "name": "actors",
+      "label": "Darakhul Awaken - Actors",
+      "path": "./packs/actors.db",
+      "private": false,
+      "system": "dnd5e",
+      "entity": "Actor",
+      "type": "Actor"
+    },
+    {
+      "name": "scenes",
+      "label": "Darakhul Awaken - Scenes",
+      "path": "./packs/scenes.db",
+      "private": false,
+      "entity": "Scene",
+      "type": "Scene"
+    },
+    {
+      "name": "journal-entries",
+      "label": "Darakhul Awaken - Journals",
+      "path": "./packs/journal-entries.db",
+      "private": false,
+      "entity": "JournalEntry",
+      "type": "JournalEntry"
+    }
+  ],
+  "system": [],
+  "dependencies": [],
+  "socket": false,
+  "manifest": "C:/Users/tomla/Desktop/darakhul-awaken/module.json",
+  "download": "https://drive.google.com/drive/u/4/folders/1bJ_ISo1P-qAvwK9utm91vKHJN_y-MZli/darakhul-awaken.zip",
+  "protected": false,
+  "coreTranslation": false,
+  "library": false
+}
