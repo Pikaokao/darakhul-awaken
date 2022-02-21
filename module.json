@@ -42,8 +42,8 @@
   "system": [],
   "dependencies": [],
   "socket": false,
-  "manifest": "C:/Users/tomla/Desktop/darakhul-awaken/module.json",
-  "download": "https://drive.google.com/drive/u/4/folders/1bJ_ISo1P-qAvwK9utm91vKHJN_y-MZli/darakhul-awaken.zip",
+  "manifest": "https://github.com/Pikaokao/darakhul-awaken/module.json",
+  "download": "https://github.com/Pikaokao/darakhul-awaken/darakhul-awaken.zip",
   "protected": false,
   "coreTranslation": false,
   "library": false
